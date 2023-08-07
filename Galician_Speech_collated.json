@@ -1,5 +1,5 @@
 {
-    "count": 5,
+    "count": 6,
     "next": null,
     "previous": null,
     "results": [
@@ -9,6 +9,13 @@
             "type": "Speech",
             "status": "private",
             "videoUrl": "https://www.theartofdrowning.com/AIContent/Speech/Galician/1c10b245-fc35-45d8-a1a7-1e4f347a10e0_ga_Female.mp4"
+        },
+        {
+            "id": "b22f47d7-e622-4ad7-8c26-05a8aea111fa",
+            "collectionId": "Galician",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Speech/Galician/b22f47d7-e622-4ad7-8c26-05a8aea111fa_ga_Female.mp4"
         },
         {
             "id": "553e0498-0563-450d-9b17-8a3e54e442d0",
